@@ -1,6 +1,6 @@
 # Penitipan Hewan By Nusirwan Eka Putra (Laravel + React + Docker)
 
-A simple CRUD app for pet boarding (penitipan hewan) — backend Laravel API, frontend React, MySQL, running with Docker.
+Aplikasi CRUD sederhana untuk penitipan hewan — backend Laravel API, frontend React, MySQL, berjalan dengan Docker.
 
 ## Fitur
 - Tambah penitipan (foto upload, validasi)
