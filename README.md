@@ -11,7 +11,7 @@ Aplikasi CRUD sederhana untuk penitipan hewan — backend Laravel API, frontend 
 - Nomor penitipan auto: `YYMMDD/JENIS/NoUrut`
 - Dockerized
 
-## Setup (Windows / WSL recommended)
+## Informasi Set Up
 1. Pastikan `docker` & `docker-compose` terinstall.
 2. Clone repo atau extract zip, lalu di folder project jalankan:
    ```bash
